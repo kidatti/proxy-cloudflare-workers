@@ -1,0 +1,9 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "proxy-cloudflare-workers",
+  "main": "src/index.js",
+  "compatibility_date": "2026-04-04",
+  "placement": {
+    "region": "aws:ap-northeast-1"
+  }
+}
